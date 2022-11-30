@@ -10,7 +10,7 @@ In terminal, run the following command to clone the repo:
    
    `dotnet new console --framework net6.0 --use-program-main`
 
-   Note: You may have to `--use-program-main` and add the main function manually
+   Note: You may have to remove `--use-program-main` and add the main function manually
 
 2. In terminal, cd into the cloned repo:
 
