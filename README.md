@@ -2,7 +2,7 @@
 
 In terminal, run the following command to clone the repo:
 
-`$ git clone `
+`$ git clone https://github.com/just-zoomit/Csharp-MSDK-signature-console-app-.git`
 
 ## Setup
 
