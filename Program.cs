@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+//See https://marketplace.zoom.us/docs/sdk/native-sdks/auth/#3-pass-zak-token-to-the-sdk for code reference
 using System;
 using static ZoomHelper;
 
